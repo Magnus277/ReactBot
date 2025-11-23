@@ -3,10 +3,6 @@ import { ChatInput } from './components/ChatInput';
 import ChatMessages from './components/ChatMessages';
 import './App.css';
 
-1
-
-
-
 function App(){
 
         const [chatMessages, setChatMessages] = useState([]);
